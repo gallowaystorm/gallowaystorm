@@ -6,9 +6,9 @@
   
 :seedling:Currently in last semester of Master's Software Engineering program at Towson University!  Go Tigers! :tiger: :tiger:
 <br /><br />
-  -Check out my final case study project!! [Great Blue Fishing](https://github.com/gallowaystorm/GreatBlueFishing) :fishing_pole_and_fish:
+ &nbsp; -Check out my final case study project!! [Great Blue Fishing](https://github.com/gallowaystorm/GreatBlueFishing) :fishing_pole_and_fish:
 
 📫 How to reach me: ...<br /><br />
-    &nbsp;gallowaystorm1724@gmail.com<br />
-    &nbsp;[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/stormgalloway)
+    &nbsp; gallowaystorm1724@gmail.com<br />
+    &nbsp; [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/stormgalloway)
 

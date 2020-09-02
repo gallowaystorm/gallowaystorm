@@ -7,6 +7,6 @@
 :seedling:Currently in last semester of Master's Software Engineering program at Towson University!  Go Tigers! :tiger: :tiger:
 
 📫 How to reach me: ...<br />
-    gallowaystorm1724@gmail.com
-    [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+    gallowaystorm1724@gmail.com<br />
+    [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/stormgalloway)
 

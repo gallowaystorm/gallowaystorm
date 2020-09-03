@@ -9,7 +9,7 @@
  &nbsp; Check out my graduation case study project!! [Great Blue Fishing](https://github.com/gallowaystorm/GreatBlueFishing) :fishing_pole_and_fish: (Still W.I.P)
 
 📫 How to reach me: ...<br /><br />
-    &nbsp; gallowaystorm1724@gmail.com<br />
+    &nbsp; gallowaystorm1724@gmail.com<br /><br />
     &nbsp; [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/stormgalloway)<br /><br />
     
 > “Experience is the name everyone gives to their mistakes.” – Oscar Wilde

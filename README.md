@@ -6,7 +6,7 @@
   
 :seedling:Currently in last semester of Master's Software Engineering program at Towson University!  Go Tigers! :tiger: :tiger:
 <br /><br />
- &nbsp; Check out my graduation case study project!! [Great Blue Fishing](https://github.com/gallowaystorm/GreatBlueFishing) :fishing_pole_and_fish: (Still WIP)
+ &nbsp; Check out my graduation case study project!! [Great Blue Fishing](https://github.com/gallowaystorm/GreatBlueFishing) :fishing_pole_and_fish: (Still W.I.P)
 
 📫 How to reach me: ...<br /><br />
     &nbsp; gallowaystorm1724@gmail.com<br />

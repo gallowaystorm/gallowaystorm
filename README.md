@@ -1,4 +1,4 @@
-:zap: Storm Galloway :zap:
+## :zap: Storm Galloway :zap:
 
 :briefcase: I’m currently working at [VariQ](https://www.variq.com/) where my day-to-day consists of mainly:<br />
   * :cloud: AWS Cloud Automation using Terraform, Ansible, and Docker<br />
